@@ -1,3 +1,3 @@
 project: https://roadmap.sh/projects/simple-tabs 
 
-preview: 
+preview: https://negarraeisi.github.io/tabs/
